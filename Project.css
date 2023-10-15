@@ -1,6 +1,6 @@
 body{
-    color:black;
-    background-color: rgb(180, 160, 199);
+    color:white;
+    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -13,7 +13,7 @@ ul{
 }
 
 a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
@@ -21,7 +21,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid white;
+    border: 5px solid #5BBE42;
 }
 
 .center {
@@ -29,13 +29,13 @@ header img {
 }
 
 h1{
-    color:white
+    color:#5BBE42
 }
   p {
-    word-spacing: 5px;
+    word-spacing: 0px;
     letter-spacing: 0px;
   }
- 
+
 footer img {
     width: 40px;
     height: 40px;
@@ -58,5 +58,5 @@ footer a {
 }
 
 nav a:hover{
-    color:black;
+    color:#5BBE42;
 }
